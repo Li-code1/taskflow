@@ -80,7 +80,7 @@ export function Dashboard() {
           <div className="flex items-center gap-6">
             <div className="text-right">
               <p className="text-[10px] text-slate-400 uppercase font-bold tracking-widest">
-                Usuária
+                Usuário(a)
               </p>
               <p className="text-sm font-bold text-blue-600">
                 {user?.name || 'Visitante'}
