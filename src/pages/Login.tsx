@@ -26,7 +26,7 @@ export function Login() {
           <div className="bg-blue-100 p-3 rounded-2xl text-blue-600 mb-4">
             <LogIn size={32} />
           </div>
-          <h1 className="text-2xl font-bold text-slate-800">Bem-vinda ao TaskFlow</h1>
+          <h1 className="text-2xl font-bold text-slate-800">Bem-vindo(a) ao TaskFlow</h1>
           <p className="text-slate-500 text-sm">Entre para gerir as suas tarefas</p>
         </div>
 
